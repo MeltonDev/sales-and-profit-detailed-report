@@ -15,3 +15,4 @@
 
 
 
+*Observação: Projeto acadêmico desenvolvido utilizando os dados de amostra do Microsoft Power BI, durante o bootcamp Klabin - Excel e Power BI Dashboards 2026 da DIO.*
